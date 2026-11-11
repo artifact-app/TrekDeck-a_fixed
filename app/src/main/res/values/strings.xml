@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TrekDeck</string>
+    <string name="nav_touchpad">Тачпад</string>
+    <string name="nav_buttons">Кнопки</string>
+    <string name="nav_settings">Настройки</string>
+</resources>
